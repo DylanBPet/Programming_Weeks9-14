@@ -9,20 +9,36 @@ public class ControllerInput : MonoBehaviour
 
     public AudioSource sfx;
 
+    public Animator animator;
+
+    private SpriteRenderer spriteRenderer;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         //input = GetComponent<PlayerInput>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
         //use with a stick
-            //transform.position += (Vector3)movement * speed * Time.deltaTime;
+            transform.position += (Vector3)movement * speed * Time.deltaTime;
 
         //use with the mouse position
-            transform.position = movement;
+        //transform.position = movement;
+
+        animator.SetFloat("AnimState", movement.magnitude);
+        if(movement.x > 0)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else
+        {
+            spriteRenderer.flipX = true;
+        }
+
     }
 
 
@@ -38,14 +54,16 @@ public class ControllerInput : MonoBehaviour
         {
             sfx.Play();
             Debug.Log("You Attacked");
+            animator.SetTrigger("Attack");
         }
+        
     }
 
     public void OnPoint(InputAction.CallbackContext context)
     {
         //The same as Mouse.current.position.ReadValue()
         movement = Camera.main.ScreenToWorldPoint(context.ReadValue<Vector2>());
-
-
     }
+
+
 }
