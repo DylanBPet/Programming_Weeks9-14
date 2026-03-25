@@ -39,7 +39,7 @@ public class PlayerMoveCoroutine : MonoBehaviour
         {
             StopCoroutine(playerJumpCoroutine);
         }
-        playerJumpCoroutine = StartCoroutine(PlayerJump());
+        //playerJumpCoroutine = StartCoroutine(PlayerJump());
     }
 
     //have the player larp forward and play walking animation
