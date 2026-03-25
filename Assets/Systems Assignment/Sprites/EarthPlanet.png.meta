@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: bd93be011c537fa4eb9024bfea15ff82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9158580871046445155
+    second: EarthPlanet_0
+  - first:
+      213: 3173947470858783060
+    second: EarthPlanet_1
+  - first:
+      213: 8850870730051727135
+    second: EarthPlanet_2
+  - first:
+      213: -7658675627915584965
+    second: EarthPlanet_3
+  - first:
+      213: 8665438872624130406
+    second: EarthPlanet_4
+  - first:
+      213: -4864271838644621741
+    second: EarthPlanet_5
+  - first:
+      213: 3277746526708161532
+    second: EarthPlanet_6
+  - first:
+      213: 1904729868172357751
+    second: EarthPlanet_7
+  - first:
+      213: 8486027969067957270
+    second: EarthPlanet_8
+  - first:
+      213: 428528956893397807
+    second: EarthPlanet_9
+  - first:
+      213: 4431557140771739099
+    second: EarthPlanet_10
+  - first:
+      213: 2383209255677390253
+    second: EarthPlanet_11
+  - first:
+      213: 6883630733829530428
+    second: EarthPlanet_12
+  - first:
+      213: 8821684053117863085
+    second: EarthPlanet_13
+  - first:
+      213: 3562504289966963532
+    second: EarthPlanet_14
+  - first:
+      213: 414965042676781221
+    second: EarthPlanet_15
+  - first:
+      213: 673452028847049803
+    second: EarthPlanet_16
+  - first:
+      213: 2552180946283636571
+    second: EarthPlanet_17
+  - first:
+      213: -9121693485312616215
+    second: EarthPlanet_18
+  - first:
+      213: -5097394600250081325
+    second: EarthPlanet_19
+  - first:
+      213: 3360513730088858669
+    second: EarthPlanet_20
+  - first:
+      213: -7005433143037686698
+    second: EarthPlanet_21
+  - first:
+      213: 9168299161660789954
+    second: EarthPlanet_22
+  - first:
+      213: 5504785914598451845
+    second: EarthPlanet_23
+  - first:
+      213: 8044371327490683624
+    second: EarthPlanet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthPlanet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368396927c0d91f70800000000000000
+      internalID: 9158580871046445155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459894098602c0c20800000000000000
+      internalID: 3173947470858783060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa2a9f80c94da70800000000000000
+      internalID: 8850870730051727135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_3
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a5624081be6b590800000000000000
+      internalID: -7658675627915584965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6696f914eb2d14870800000000000000
+      internalID: 8665438872624130406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_5
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea6a6e882ae7cb0800000000000000
+      internalID: -4864271838644621741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_6
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd53c8915ec7d20800000000000000
+      internalID: 3277746526708161532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_7
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7707d7139b5fe6a10800000000000000
+      internalID: 1904729868172357751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_8
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c335a1a7d64c570800000000000000
+      internalID: 8486027969067957270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_9
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23899bd0d072f500800000000000000
+      internalID: 428528956893397807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_10
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd59b897dbd008d30800000000000000
+      internalID: 4431557140771739099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_11
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade216f03cd21120800000000000000
+      internalID: 2383209255677390253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_12
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33eede6ea1978f50800000000000000
+      internalID: 6883630733829530428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_13
+      rect:
+        serializedVersion: 2
+        x: 6780
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da481d238eaec6a70800000000000000
+      internalID: 8821684053117863085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_14
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b394ad6ce807130800000000000000
+      internalID: 3562504289966963532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_15
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a054faf18042c500800000000000000
+      internalID: 414965042676781221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_16
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 19
+        width: 501
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc1b85d05985900800000000000000
+      internalID: 673452028847049803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_17
+      rect:
+        serializedVersion: 2
+        x: 8860
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a1c17c0b2b6320800000000000000
+      internalID: 2552180946283636571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_18
+      rect:
+        serializedVersion: 2
+        x: 9380
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e852f99a1c396180800000000000000
+      internalID: -9121693485312616215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_19
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df79144e9a6249b0800000000000000
+      internalID: -5097394600250081325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_20
+      rect:
+        serializedVersion: 2
+        x: 10420
+        y: 19
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f4c8ce61f2ae20800000000000000
+      internalID: 3360513730088858669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_21
+      rect:
+        serializedVersion: 2
+        x: 10939
+        y: 19
+        width: 502
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8d7b3ca3b7ce90800000000000000
+      internalID: -7005433143037686698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_22
+      rect:
+        serializedVersion: 2
+        x: 11459
+        y: 19
+        width: 502
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c49d4503875c3f70800000000000000
+      internalID: 9168299161660789954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_23
+      rect:
+        serializedVersion: 2
+        x: 11979
+        y: 19
+        width: 502
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae63caf9de46c40800000000000000
+      internalID: 5504785914598451845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthPlanet_24
+      rect:
+        serializedVersion: 2
+        x: 12499
+        y: 19
+        width: 502
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e27b68f91953af60800000000000000
+      internalID: 8044371327490683624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthPlanet_0: 9158580871046445155
+      EarthPlanet_1: 3173947470858783060
+      EarthPlanet_10: 4431557140771739099
+      EarthPlanet_11: 2383209255677390253
+      EarthPlanet_12: 6883630733829530428
+      EarthPlanet_13: 8821684053117863085
+      EarthPlanet_14: 3562504289966963532
+      EarthPlanet_15: 414965042676781221
+      EarthPlanet_16: 673452028847049803
+      EarthPlanet_17: 2552180946283636571
+      EarthPlanet_18: -9121693485312616215
+      EarthPlanet_19: -5097394600250081325
+      EarthPlanet_2: 8850870730051727135
+      EarthPlanet_20: 3360513730088858669
+      EarthPlanet_21: -7005433143037686698
+      EarthPlanet_22: 9168299161660789954
+      EarthPlanet_23: 5504785914598451845
+      EarthPlanet_24: 8044371327490683624
+      EarthPlanet_3: -7658675627915584965
+      EarthPlanet_4: 8665438872624130406
+      EarthPlanet_5: -4864271838644621741
+      EarthPlanet_6: 3277746526708161532
+      EarthPlanet_7: 1904729868172357751
+      EarthPlanet_8: 8486027969067957270
+      EarthPlanet_9: 428528956893397807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
