@@ -34,7 +34,7 @@ public class ZoomingInAndOut : MonoBehaviour
     public UnityEvent OnZoomIn;
     public UnityEvent OnZoomOut;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
     void Start()
     {
         //turn Zoom in mode on just in case the canvas is not turned off itself (this will effect the fade to black effect)
@@ -68,8 +68,12 @@ public class ZoomingInAndOut : MonoBehaviour
                 //Only do this when attack context has been started
                 if (context.started == true)
                 {
-                    //run this function that checks through the array to see if you clicked inside a planet. If yes, change to zoom in mode
-                    StartCoroutine (CheckTheList(i));
+                    //check if any planet has been clicked by playing using the attack started
+                    if (planetSprites[i].bounds.Contains(mousePos) == true)
+                    {
+                        //run this function that checks through the array to see if you clicked inside a planet. If yes, change to zoom in mode
+                        StartCoroutine(CheckTheList(i));
+                    }
                 }
             }
         }
@@ -80,9 +84,6 @@ public class ZoomingInAndOut : MonoBehaviour
         //invoke OnZoomIn to show the stars
         OnZoomIn.Invoke();
 
-        //check if any planet has been clicked by playing using the attack started
-        if (planetSprites[i].bounds.Contains(mousePos) == true)
-        {
                 //Change InZoomOutMode to false because we are no longer in zoom out mode
                 inZoomOutMode = false;
 
@@ -115,7 +116,6 @@ public class ZoomingInAndOut : MonoBehaviour
                 yield return null;
             }
             zoomInCanvas.SetActive(true); 
-        }
     }
 
     public void ZoomOutCoroutine()

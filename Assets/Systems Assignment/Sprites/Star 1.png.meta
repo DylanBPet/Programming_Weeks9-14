@@ -1,0 +1,2202 @@
+fileFormatVersion: 2
+guid: 1f086ca4c6f3e3b439a0bc82cb2b1092
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6381605330626397364
+    second: Star 1_0
+  - first:
+      213: -7363754113931319595
+    second: Star 1_1
+  - first:
+      213: 5037867458688285534
+    second: Star 1_2
+  - first:
+      213: 5286581542537222989
+    second: Star 1_3
+  - first:
+      213: 6250946612711090486
+    second: Star 1_4
+  - first:
+      213: 7311286994762158397
+    second: Star 1_5
+  - first:
+      213: 6822582134839169122
+    second: Star 1_6
+  - first:
+      213: 3229093698603385315
+    second: Star 1_7
+  - first:
+      213: -2823859079458393774
+    second: Star 1_8
+  - first:
+      213: 4437556542610788600
+    second: Star 1_9
+  - first:
+      213: 3654467033336830753
+    second: Star 1_10
+  - first:
+      213: -5088908849158862777
+    second: Star 1_11
+  - first:
+      213: -3150029130986818935
+    second: Star 1_12
+  - first:
+      213: -8311349348594082236
+    second: Star 1_13
+  - first:
+      213: 1163434219361987172
+    second: Star 1_14
+  - first:
+      213: -3421776440657131620
+    second: Star 1_15
+  - first:
+      213: -5289705685961786188
+    second: Star 1_16
+  - first:
+      213: -5625463260517367981
+    second: Star 1_17
+  - first:
+      213: 3960590101908511281
+    second: Star 1_18
+  - first:
+      213: -8658949231882878842
+    second: Star 1_19
+  - first:
+      213: 2411609299758301467
+    second: Star 1_20
+  - first:
+      213: -8937885218822096930
+    second: Star 1_21
+  - first:
+      213: -429417628604662484
+    second: Star 1_22
+  - first:
+      213: -8570005921267586287
+    second: Star 1_23
+  - first:
+      213: -6494397651933560373
+    second: Star 1_24
+  - first:
+      213: -777638963336209960
+    second: Star 1_25
+  - first:
+      213: -7459766570475273296
+    second: Star 1_26
+  - first:
+      213: -3771730713467274314
+    second: Star 1_27
+  - first:
+      213: 8715572355012530398
+    second: Star 1_28
+  - first:
+      213: -3826239991045428961
+    second: Star 1_29
+  - first:
+      213: 3176111212447274021
+    second: Star 1_30
+  - first:
+      213: 5133661381976826467
+    second: Star 1_31
+  - first:
+      213: 9202564712457482269
+    second: Star 1_32
+  - first:
+      213: -8165504745086166387
+    second: Star 1_33
+  - first:
+      213: -5891554089753246186
+    second: Star 1_34
+  - first:
+      213: 3238172205038756116
+    second: Star 1_35
+  - first:
+      213: 6871743660353553734
+    second: Star 1_36
+  - first:
+      213: -9216979607778729728
+    second: Star 1_37
+  - first:
+      213: 7443294428107093864
+    second: Star 1_38
+  - first:
+      213: -2601398164567653504
+    second: Star 1_39
+  - first:
+      213: 6917265932632841104
+    second: Star 1_40
+  - first:
+      213: 8225780466906769811
+    second: Star 1_41
+  - first:
+      213: 195211064147445337
+    second: Star 1_42
+  - first:
+      213: -6842037673289578571
+    second: Star 1_43
+  - first:
+      213: -4216878511810817321
+    second: Star 1_44
+  - first:
+      213: -1611337728079335068
+    second: Star 1_45
+  - first:
+      213: -6021521786427663242
+    second: Star 1_46
+  - first:
+      213: -3542503321057016834
+    second: Star 1_47
+  - first:
+      213: -781756746419583070
+    second: Star 1_48
+  - first:
+      213: -5168494196325228138
+    second: Star 1_49
+  - first:
+      213: 2740679261684149550
+    second: Star 1_50
+  - first:
+      213: -8082689696874369468
+    second: Star 1_51
+  - first:
+      213: 2065113841007661945
+    second: Star 1_52
+  - first:
+      213: -2833043013135960731
+    second: Star 1_53
+  - first:
+      213: 4688314962954723099
+    second: Star 1_54
+  - first:
+      213: -5651272924816542788
+    second: Star 1_55
+  - first:
+      213: -1507403430539477923
+    second: Star 1_56
+  - first:
+      213: -6277429895632331729
+    second: Star 1_57
+  - first:
+      213: -6584234244328485313
+    second: Star 1_58
+  - first:
+      213: -9201745737782803137
+    second: Star 1_59
+  - first:
+      213: -8212716208850334140
+    second: Star 1_60
+  - first:
+      213: -5502765017313886404
+    second: Star 1_61
+  - first:
+      213: -7482266260910951099
+    second: Star 1_62
+  - first:
+      213: -2243062103558745130
+    second: Star 1_63
+  - first:
+      213: -2529867316451792392
+    second: Star 1_64
+  - first:
+      213: 771437269917546384
+    second: Star 1_65
+  - first:
+      213: -5344185922717066033
+    second: Star 1_66
+  - first:
+      213: -7650843856286108919
+    second: Star 1_67
+  - first:
+      213: 7774858501835143239
+    second: Star 1_68
+  - first:
+      213: -4716743942371452361
+    second: Star 1_69
+  - first:
+      213: 4610730328432724112
+    second: Star 1_70
+  - first:
+      213: -201321685879530163
+    second: Star 1_71
+  - first:
+      213: -1534195936985498554
+    second: Star 1_72
+  - first:
+      213: 1810553046082244040
+    second: Star 1_73
+  - first:
+      213: 1666343676212093005
+    second: Star 1_74
+  - first:
+      213: 5571132953520654580
+    second: Star 1_75
+  - first:
+      213: -6780387690542235563
+    second: Star 1_76
+  - first:
+      213: 1275695738399716209
+    second: Star 1_77
+  - first:
+      213: -6904934739585965482
+    second: Star 1_78
+  - first:
+      213: 4879385379900771869
+    second: Star 1_79
+  - first:
+      213: 4571369437800768997
+    second: Star 1_80
+  - first:
+      213: -7164913629314655677
+    second: Star 1_81
+  - first:
+      213: 2015654895211389146
+    second: Star 1_82
+  - first:
+      213: 6496096330444191801
+    second: Star 1_83
+  - first:
+      213: -5034822324373665076
+    second: Star 1_84
+  - first:
+      213: 2186453177487229916
+    second: Star 1_85
+  - first:
+      213: -905764395793839051
+    second: Star 1_86
+  - first:
+      213: -3768911967449549674
+    second: Star 1_87
+  - first:
+      213: 6976553541823104943
+    second: Star 1_88
+  - first:
+      213: -7695933381435396392
+    second: Star 1_89
+  - first:
+      213: -5690909138322803757
+    second: Star 1_90
+  - first:
+      213: -4546397608168777116
+    second: Star 1_91
+  - first:
+      213: -1792832135062579214
+    second: Star 1_92
+  - first:
+      213: 2893353032722824413
+    second: Star 1_93
+  - first:
+      213: -7228708040574830994
+    second: Star 1_94
+  - first:
+      213: -6760378920210907133
+    second: Star 1_95
+  - first:
+      213: 1518208773488732192
+    second: Star 1_96
+  - first:
+      213: -7808691186579963093
+    second: Star 1_97
+  - first:
+      213: -7825388971385005656
+    second: Star 1_98
+  - first:
+      213: -322763103918127622
+    second: Star 1_99
+  - first:
+      213: -7848361591161212456
+    second: Star 1_100
+  - first:
+      213: 7947234667272905996
+    second: Star 1_101
+  - first:
+      213: -7744812935801292757
+    second: Star 1_102
+  - first:
+      213: 3883405659297687317
+    second: Star 1_103
+  - first:
+      213: -4248919598196346257
+    second: Star 1_104
+  - first:
+      213: -4787987265252541758
+    second: Star 1_105
+  - first:
+      213: -3889874907601277843
+    second: Star 1_106
+  - first:
+      213: -5011411763230484610
+    second: Star 1_107
+  - first:
+      213: 7044716259410648576
+    second: Star 1_108
+  - first:
+      213: -2757344869214535953
+    second: Star 1_109
+  - first:
+      213: 3103494712899370923
+    second: Star 1_110
+  - first:
+      213: -720027153106578223
+    second: Star 1_111
+  - first:
+      213: 1478633881236529039
+    second: Star 1_112
+  - first:
+      213: 6998980641914661260
+    second: Star 1_113
+  - first:
+      213: -4942410149054423936
+    second: Star 1_114
+  - first:
+      213: -3325327026076239148
+    second: Star 1_115
+  - first:
+      213: 6942809538411212712
+    second: Star 1_116
+  - first:
+      213: -5566126783546756096
+    second: Star 1_117
+  - first:
+      213: -1370047567506348811
+    second: Star 1_118
+  - first:
+      213: -8712341364177256102
+    second: Star 1_119
+  - first:
+      213: -6456892636226607427
+    second: Star 1_120
+  - first:
+      213: 4527206673163993441
+    second: Star 1_121
+  - first:
+      213: 7175073605758994374
+    second: Star 1_122
+  - first:
+      213: -6853984869822376830
+    second: Star 1_123
+  - first:
+      213: 3801346515903560747
+    second: Star 1_124
+  - first:
+      213: -1653057514482192629
+    second: Star 1_125
+  - first:
+      213: -7549534436432014771
+    second: Star 1_126
+  - first:
+      213: 1129313462100942704
+    second: Star 1_127
+  - first:
+      213: -6719969117507172090
+    second: Star 1_128
+  - first:
+      213: 640578043404378596
+    second: Star 1_129
+  - first:
+      213: 8669298030746360082
+    second: Star 1_130
+  - first:
+      213: -6096663155506224631
+    second: Star 1_131
+  - first:
+      213: 2540863454807299431
+    second: Star 1_132
+  - first:
+      213: -8653648041938044636
+    second: Star 1_133
+  - first:
+      213: 7722965936482559772
+    second: Star 1_134
+  - first:
+      213: 1520224657076843940
+    second: Star 1_135
+  - first:
+      213: -8735665059367034661
+    second: Star 1_136
+  - first:
+      213: -4415140828927653505
+    second: Star 1_137
+  - first:
+      213: -542562714295473074
+    second: Star 1_138
+  - first:
+      213: -1041173874790554884
+    second: Star 1_139
+  - first:
+      213: 3581808554143004718
+    second: Star 1_140
+  - first:
+      213: -2402578665214078625
+    second: Star 1_141
+  - first:
+      213: -2664616499794325967
+    second: Star 1_142
+  - first:
+      213: -5510715867689224447
+    second: Star 1_143
+  - first:
+      213: 8532543967736026129
+    second: Star 1_144
+  - first:
+      213: 4959567959767921577
+    second: Star 1_145
+  - first:
+      213: 6376562695256582161
+    second: Star 1_146
+  - first:
+      213: 2715746837910785797
+    second: Star 1_147
+  - first:
+      213: -8268623209581091140
+    second: Star 1_148
+  - first:
+      213: 1906463220749580618
+    second: Star 1_149
+  - first:
+      213: -8453344432522463556
+    second: Star 1_150
+  - first:
+      213: -2021198269112482805
+    second: Star 1_151
+  - first:
+      213: -7746292611860606389
+    second: Star 1_152
+  - first:
+      213: 6251147226415936678
+    second: Star 1_153
+  - first:
+      213: -7639848841127547458
+    second: Star 1_154
+  - first:
+      213: -1728829019385295524
+    second: Star 1_155
+  - first:
+      213: -4310670883538353505
+    second: Star 1_156
+  - first:
+      213: 3529461627493679509
+    second: Star 1_157
+  - first:
+      213: -994965817730358571
+    second: Star 1_158
+  - first:
+      213: 5939001872376740161
+    second: Star 1_159
+  - first:
+      213: 7629121379664915150
+    second: Star 1_160
+  - first:
+      213: 8877308713266284816
+    second: Star 1_161
+  - first:
+      213: -6387718186241213687
+    second: Star 1_162
+  - first:
+      213: 7126144807770856833
+    second: Star 1_163
+  - first:
+      213: 1837509708821508026
+    second: Star 1_164
+  - first:
+      213: 4597680303529056205
+    second: Star 1_165
+  - first:
+      213: 4614668559644492910
+    second: Star 1_166
+  - first:
+      213: 7673427727996796314
+    second: Star 1_167
+  - first:
+      213: 1705594905059620341
+    second: Star 1_168
+  - first:
+      213: 4956228177787262938
+    second: Star 1_169
+  - first:
+      213: -6580780094162292953
+    second: Star 1_170
+  - first:
+      213: -3952483034584733769
+    second: Star 1_171
+  - first:
+      213: -3798765774333942315
+    second: Star 1_172
+  - first:
+      213: -849204810577319350
+    second: Star 1_173
+  - first:
+      213: 7544751670337828794
+    second: Star 1_174
+  - first:
+      213: 2243697849983402132
+    second: Star 1_175
+  - first:
+      213: -8581344650392693390
+    second: Star 1_176
+  - first:
+      213: 3843977772299838065
+    second: Star 1_177
+  - first:
+      213: -2914710567928872023
+    second: Star 1_178
+  - first:
+      213: 4903409905779962987
+    second: Star 1_179
+  - first:
+      213: 4188791041190051186
+    second: Star 1_180
+  - first:
+      213: 3338752372463481533
+    second: Star 1_181
+  - first:
+      213: 307366862699701276
+    second: Star 1_182
+  - first:
+      213: -1744976798338970698
+    second: Star 1_183
+  - first:
+      213: 2388116080331427294
+    second: Star 1_184
+  - first:
+      213: 2684657051175510834
+    second: Star 1_185
+  - first:
+      213: 8317256229911033667
+    second: Star 1_186
+  - first:
+      213: -5553388125341829868
+    second: Star 1_187
+  - first:
+      213: -6031450458814832453
+    second: Star 1_188
+  - first:
+      213: 7931964320855498665
+    second: Star 1_189
+  - first:
+      213: 4379256540519772023
+    second: Star 1_190
+  - first:
+      213: -6816342472057689174
+    second: Star 1_191
+  - first:
+      213: -6556790478611676912
+    second: Star 1_192
+  - first:
+      213: -3751840181849134080
+    second: Star 1_193
+  - first:
+      213: 7906965346475282905
+    second: Star 1_194
+  - first:
+      213: -4626268222843843186
+    second: Star 1_195
+  - first:
+      213: -5139095363623824568
+    second: Star 1_196
+  - first:
+      213: -968440157874573890
+    second: Star 1_197
+  - first:
+      213: 3353912156218068849
+    second: Star 1_198
+  - first:
+      213: 5602035798750460691
+    second: Star 1_199
+  - first:
+      213: 5361542572584624548
+    second: Star 1_200
+  - first:
+      213: -5762186937732869247
+    second: Star 1_201
+  - first:
+      213: 3508754257463108478
+    second: Star 1_202
+  - first:
+      213: -2989369826442245485
+    second: Star 1_203
+  - first:
+      213: -7379408340174428895
+    second: Star 1_204
+  - first:
+      213: 1183236798279194835
+    second: Star 1_205
+  - first:
+      213: -4959706008357561583
+    second: Star 1_206
+  - first:
+      213: -878803676082651213
+    second: Star 1_207
+  - first:
+      213: 5540748184116683285
+    second: Star 1_208
+  - first:
+      213: -1481083927830889935
+    second: Star 1_209
+  - first:
+      213: 4727140230039363630
+    second: Star 1_210
+  - first:
+      213: 8983295088226238117
+    second: Star 1_211
+  - first:
+      213: 3057501305130169150
+    second: Star 1_212
+  - first:
+      213: 6337472312980112261
+    second: Star 1_213
+  - first:
+      213: -7976263518654109869
+    second: Star 1_214
+  - first:
+      213: -2779185753502749479
+    second: Star 1_215
+  - first:
+      213: 5681937748400542501
+    second: Star 1_216
+  - first:
+      213: 1834684455809610608
+    second: Star 1_217
+  - first:
+      213: -4894885215058138570
+    second: Star 1_218
+  - first:
+      213: 3053682658294491301
+    second: Star 1_219
+  - first:
+      213: -5110006998736859161
+    second: Star 1_220
+  - first:
+      213: 230487789043386373
+    second: Star 1_221
+  - first:
+      213: 4356729505537658792
+    second: Star 1_222
+  - first:
+      213: -3275007761852814469
+    second: Star 1_223
+  - first:
+      213: 9151176119368258435
+    second: Star 1_224
+  - first:
+      213: 3893885749533137102
+    second: Star 1_225
+  - first:
+      213: 5812138013427825062
+    second: Star 1_226
+  - first:
+      213: -4819798049804020326
+    second: Star 1_227
+  - first:
+      213: 8049484256926820316
+    second: Star 1_228
+  - first:
+      213: 2372361926094471173
+    second: Star 1_229
+  - first:
+      213: -4115879188080447137
+    second: Star 1_230
+  - first:
+      213: 4418600566100743318
+    second: Star 1_231
+  - first:
+      213: -7333839681506615268
+    second: Star 1_232
+  - first:
+      213: -5366843813655830178
+    second: Star 1_233
+  - first:
+      213: 6984464550849655257
+    second: Star 1_234
+  - first:
+      213: 8151173917453550225
+    second: Star 1_235
+  - first:
+      213: -8615441862434624147
+    second: Star 1_236
+  - first:
+      213: 8127585450258820542
+    second: Star 1_237
+  - first:
+      213: -19323430885300744
+    second: Star 1_238
+  - first:
+      213: -7986643991196190836
+    second: Star 1_239
+  - first:
+      213: -5015961546805883539
+    second: Star 1_240
+  - first:
+      213: 3741556141699645450
+    second: Star 1_241
+  - first:
+      213: 4875725700053995315
+    second: Star 1_242
+  - first:
+      213: 6489593831843735912
+    second: Star 1_243
+  - first:
+      213: 1790274325392300557
+    second: Star 1_244
+  - first:
+      213: -3535822909409218118
+    second: Star 1_245
+  - first:
+      213: 591644821278788815
+    second: Star 1_246
+  - first:
+      213: -1421440170890090408
+    second: Star 1_247
+  - first:
+      213: 7305990046117041235
+    second: Star 1_248
+  - first:
+      213: -6702425513604569011
+    second: Star 1_249
+  - first:
+      213: -2921835222400367826
+    second: Star 1_250
+  - first:
+      213: 1266488757376727637
+    second: Star 1_251
+  - first:
+      213: 8471499504707047280
+    second: Star 1_252
+  - first:
+      213: -7755296481993339720
+    second: Star 1_253
+  - first:
+      213: -5056560657305190587
+    second: Star 1_254
+  - first:
+      213: 8691824653700431879
+    second: Star 1_255
+  - first:
+      213: 3078421742248354790
+    second: Star 1_256
+  - first:
+      213: 5326102100096281770
+    second: Star 1_257
+  - first:
+      213: -3390536943984658173
+    second: Star 1_258
+  - first:
+      213: -1177517168002591184
+    second: Star 1_259
+  - first:
+      213: 4499856401515050799
+    second: Star 1_260
+  - first:
+      213: -6835980364439341929
+    second: Star 1_261
+  - first:
+      213: 1978010020906155107
+    second: Star 1_262
+  - first:
+      213: 1825276249918565119
+    second: Star 1_263
+  - first:
+      213: 6529016973570311897
+    second: Star 1_264
+  - first:
+      213: -6861957441552267903
+    second: Star 1_265
+  - first:
+      213: -9044559034857350239
+    second: Star 1_266
+  - first:
+      213: -8434134015619504934
+    second: Star 1_267
+  - first:
+      213: -5401205581922572315
+    second: Star 1_268
+  - first:
+      213: 5632857734155292301
+    second: Star 1_269
+  - first:
+      213: 1233607511958223930
+    second: Star 1_270
+  - first:
+      213: -1072304496538410865
+    second: Star 1_271
+  - first:
+      213: 1215662682910389625
+    second: Star 1_272
+  - first:
+      213: 4376380246779016381
+    second: Star 1_273
+  - first:
+      213: 7849149437022513493
+    second: Star 1_274
+  - first:
+      213: -4824489618219635752
+    second: Star 1_275
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b364353cbff67a0800000000000000
+      internalID: -6381605330626397364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d66dc1f5a0bec990800000000000000
+      internalID: -7363754113931319595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b7d9c03c91ae540800000000000000
+      internalID: 5037867458688285534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b511747e5bd5940800000000000000
+      internalID: 5286581542537222989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639639843d2dfb650800000000000000
+      internalID: 6250946612711090486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315bbde8c8e67560800000000000000
+      internalID: 7311286994762158397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d306dd4eaeae50800000000000000
+      internalID: 6822582134839169122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e105b34c9b00dc20800000000000000
+      internalID: 3229093698603385315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251fe11f023afc8d0800000000000000
+      internalID: -2823859079458393774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0d6011a2e559d30800000000000000
+      internalID: 4437556542610788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bda65976647b230800000000000000
+      internalID: 3654467033336830753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_11
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7484b872d509069b0800000000000000
+      internalID: -5088908849158862777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_12
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f567e139d844d0800000000000000
+      internalID: -3150029130986818935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_13
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e10e88dc728ac80800000000000000
+      internalID: -8311349348594082236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_14
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aea942249552010800000000000000
+      internalID: 1163434219361987172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_15
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c4d1e4786380d0800000000000000
+      internalID: -3421776440657131620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_16
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc32e564b03796b0800000000000000
+      internalID: -5289705685961786188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_17
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff9d338f65ee1b0800000000000000
+      internalID: -5625463260517367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_18
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a5f2da6b7d6f630800000000000000
+      internalID: 3960590101908511281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_19
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680ca79fc8b35d780800000000000000
+      internalID: -8658949231882878842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_20
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114f1181e1c77120800000000000000
+      internalID: 2411609299758301467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_21
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f4e89fb046f380800000000000000
+      internalID: -8937885218822096930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_22
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7ab221f66a0af0800000000000000
+      internalID: -429417628604662484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_23
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be9db3509311980800000000000000
+      internalID: -8570005921267586287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_24
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18e5e8eb34fd5a0800000000000000
+      internalID: -6494397651933560373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_25
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d997d2ab754535f0800000000000000
+      internalID: -777638963336209960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_26
+      rect:
+        serializedVersion: 2
+        x: 10400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3cc73e3d5997890800000000000000
+      internalID: -7459766570475273296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb3a5b46ee18abc0800000000000000
+      internalID: -3771730713467274314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09cba31eee3f870800000000000000
+      internalID: 8715572355012530398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e75c100776eac0800000000000000
+      internalID: -3826239991045428961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5241e09e150d31c20800000000000000
+      internalID: 3176111212447274021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_31
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362aeddd3dd6e3740800000000000000
+      internalID: 5133661381976826467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b29449d316bf70800000000000000
+      internalID: 9202564712457482269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5f5172bc4eae80800000000000000
+      internalID: -8165504745086166387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616024925cefc3ea0800000000000000
+      internalID: -5891554089753246186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e0e2c67c40fc20800000000000000
+      internalID: 3238172205038756116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_36
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458ae673765d5f50800000000000000
+      internalID: 6871743660353553734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_37
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001645061e5b61080800000000000000
+      internalID: -9216979607778729728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_38
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b7f998d4eb4760800000000000000
+      internalID: 7443294428107093864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_39
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838791f62af5ebd0800000000000000
+      internalID: -2601398164567653504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_40
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bdd7b67b01fff50800000000000000
+      internalID: 6917265932632841104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_41
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399235aa0c7d72270800000000000000
+      internalID: 8225780466906769811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_42
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9560cb6bd6785b200800000000000000
+      internalID: 195211064147445337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_43
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b70cbf9cf23c01a0800000000000000
+      internalID: -6842037673289578571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_44
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2d982e553aa75c0800000000000000
+      internalID: -4216878511810817321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_45
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46175a0afd063a9e0800000000000000
+      internalID: -1611337728079335068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_46
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c14b0b6d14f6ca0800000000000000
+      internalID: -6021521786427663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_47
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef341cc9fff76dec0800000000000000
+      internalID: -3542503321057016834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_48
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a745ec8164a625f0800000000000000
+      internalID: -781756746419583070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_49
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ed5c89e1d548b0800000000000000
+      internalID: -5168494196325228138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_50
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da6fb8449d80620800000000000000
+      internalID: 2740679261684149550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_51
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee71c6b8484df80800000000000000
+      internalID: -8082689696874369468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_52
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731102d812c8ac10800000000000000
+      internalID: 2065113841007661945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star 1_53
+      rect:
+        serializedVersion: 2
+        x: 10400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565f0a0c3620fa8d0800000000000000
+      internalID: -2833043013135960731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f563b36c1fd8dc6419619cd87c4b4f86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":400.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Star 1_0: -6381605330626397364
+      Star 1_1: -7363754113931319595
+      Star 1_10: 3654467033336830753
+      Star 1_11: -5088908849158862777
+      Star 1_12: -3150029130986818935
+      Star 1_13: -8311349348594082236
+      Star 1_14: 1163434219361987172
+      Star 1_15: -3421776440657131620
+      Star 1_16: -5289705685961786188
+      Star 1_17: -5625463260517367981
+      Star 1_18: 3960590101908511281
+      Star 1_19: -8658949231882878842
+      Star 1_2: 5037867458688285534
+      Star 1_20: 2411609299758301467
+      Star 1_21: -8937885218822096930
+      Star 1_22: -429417628604662484
+      Star 1_23: -8570005921267586287
+      Star 1_24: -6494397651933560373
+      Star 1_25: -777638963336209960
+      Star 1_26: -7459766570475273296
+      Star 1_27: -3771730713467274314
+      Star 1_28: 8715572355012530398
+      Star 1_29: -3826239991045428961
+      Star 1_3: 5286581542537222989
+      Star 1_30: 3176111212447274021
+      Star 1_31: 5133661381976826467
+      Star 1_32: 9202564712457482269
+      Star 1_33: -8165504745086166387
+      Star 1_34: -5891554089753246186
+      Star 1_35: 3238172205038756116
+      Star 1_36: 6871743660353553734
+      Star 1_37: -9216979607778729728
+      Star 1_38: 7443294428107093864
+      Star 1_39: -2601398164567653504
+      Star 1_4: 6250946612711090486
+      Star 1_40: 6917265932632841104
+      Star 1_41: 8225780466906769811
+      Star 1_42: 195211064147445337
+      Star 1_43: -6842037673289578571
+      Star 1_44: -4216878511810817321
+      Star 1_45: -1611337728079335068
+      Star 1_46: -6021521786427663242
+      Star 1_47: -3542503321057016834
+      Star 1_48: -781756746419583070
+      Star 1_49: -5168494196325228138
+      Star 1_5: 7311286994762158397
+      Star 1_50: 2740679261684149550
+      Star 1_51: -8082689696874369468
+      Star 1_52: 2065113841007661945
+      Star 1_53: -2833043013135960731
+      Star 1_6: 6822582134839169122
+      Star 1_7: 3229093698603385315
+      Star 1_8: -2823859079458393774
+      Star 1_9: 4437556542610788600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
