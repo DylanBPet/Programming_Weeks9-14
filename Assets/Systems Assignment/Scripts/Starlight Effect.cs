@@ -99,7 +99,7 @@ public class StarlightEffect : MonoBehaviour
         {
             starList[i].transform.localScale = Vector2.one * 3;
             SpriteRenderer sr = starList[i].GetComponent<SpriteRenderer>();
-            sr.color = new Color(0, 0, 0);
+            sr.color = new Color(0.60f, 0.60f, 0);
             starList[i].SetActive(true);
         }
         
