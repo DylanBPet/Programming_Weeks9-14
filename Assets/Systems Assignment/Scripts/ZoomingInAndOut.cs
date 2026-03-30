@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 public class ZoomingInAndOut : MonoBehaviour
@@ -14,7 +15,6 @@ public class ZoomingInAndOut : MonoBehaviour
     //ZoomOutMode variables I will need
     public GameObject ZoomOutMode;
 
-    
     //A list of all the planets that are around the map
     public List<SpriteRenderer> planetSprites;
 
@@ -29,6 +29,10 @@ public class ZoomingInAndOut : MonoBehaviour
 
     public SpriteRenderer blackOverlay;
     private float alpha;
+
+    //a unity event that will show and hide the stars in the starlight effect script
+    public UnityEvent OnZoomIn;
+    public UnityEvent OnZoomOut;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -73,6 +77,9 @@ public class ZoomingInAndOut : MonoBehaviour
 
     IEnumerator CheckTheList(int i)
     {
+        //invoke OnZoomIn to show the stars
+        OnZoomIn.Invoke();
+
         //check if any planet has been clicked by playing using the attack started
         if (planetSprites[i].bounds.Contains(mousePos) == true)
         {
@@ -107,7 +114,7 @@ public class ZoomingInAndOut : MonoBehaviour
                 alpha -= 0.003f;
                 yield return null;
             }
-            zoomInCanvas.SetActive(true);
+            zoomInCanvas.SetActive(true); 
         }
     }
 
@@ -119,6 +126,7 @@ public class ZoomingInAndOut : MonoBehaviour
 
     IEnumerator GoToZoomOutMode()
     {
+
         //turn off the canvas
         inZoomOutMode = true;
         zoomInCanvas.SetActive(false);
@@ -145,6 +153,9 @@ public class ZoomingInAndOut : MonoBehaviour
             alpha -= 0.003f;
             yield return null;
         }
+
+        //invoke OnZoomOut to hide the stars
+        OnZoomOut.Invoke();
     }
 
 }
