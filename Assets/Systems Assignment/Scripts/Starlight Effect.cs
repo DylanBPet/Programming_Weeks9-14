@@ -83,6 +83,11 @@ public class StarlightEffect : MonoBehaviour
         currentAlpha = overlay.color;
             //change it to a new value
         currentAlpha.a -= 0.10f;
+        //if below 0, make it 0 so the rest of the effects stil happen
+        if (currentAlpha.a < 0)
+        {
+            currentAlpha.a = 0;
+        }
             //apply the new value
         overlay.color = currentAlpha;
 
@@ -98,7 +103,7 @@ public class StarlightEffect : MonoBehaviour
             //get the current brightness
         currentAlpha = overlay.color;
             //make it darker (less transparent)
-        currentAlpha.a += 0.40f;
+        currentAlpha.a += 0.30f;
             //apply it to the overlay
         overlay.color = currentAlpha;
     }
