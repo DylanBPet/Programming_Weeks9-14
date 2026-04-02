@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public class DayNightCoroutines : MonoBehaviour
 {
+    //the canvas that makes it appear dark in zoom in mode
     public Slider worldOverlaySlider;
 
     private Coroutine turningDay;
@@ -23,6 +24,7 @@ public class DayNightCoroutines : MonoBehaviour
 
     public void TurnToDay()
     {
+        //starting the day coroutine, but stopping the night coroutine first
         if (turningDay != null)
         {
             StopCoroutine(turningDay);
@@ -36,6 +38,7 @@ public class DayNightCoroutines : MonoBehaviour
 
     public void TurnToNight()
     {
+        //starting the night coroutine, but stopping the day coroutine first
         if (turningDay != null)
         {
             StopCoroutine(turningDay);
@@ -49,6 +52,7 @@ public class DayNightCoroutines : MonoBehaviour
 
     IEnumerator Night()
     {
+        //while the slider is less than or equal to 1, make slider increase
         while (worldOverlaySlider.value <= 1)
         {
             worldOverlaySlider.value += 0.002f;
@@ -58,6 +62,7 @@ public class DayNightCoroutines : MonoBehaviour
 
     IEnumerator Day()
     {
+        //while the slider is more than or equal to 0, make slider decrease
         while (worldOverlaySlider.value >= 0)
         {
             worldOverlaySlider.value -= 0.002f;

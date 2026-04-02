@@ -4,15 +4,22 @@ using UnityEngine.UIElements;
 
 public class PlayerMovement : MonoBehaviour
 {
+    //Used for speed of camera movment
     public float speed;
+
+    //used to store the store the input value
     private Vector2 movement;
+
+    //able to turn off movment
     public bool canMove;
 
+    //save starting position to reset when planet is clicked
     private Vector2 startPos;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        //set the starting position and allow movement
         startPos = transform.position;
         canMove = true;
     }
